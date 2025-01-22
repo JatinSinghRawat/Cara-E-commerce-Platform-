@@ -1,7 +1,8 @@
 # Cara-E-commerce-Platform-
 Cara is an HTML and CSS e-commerce website template. This template is a modern, responsive, and visually appealing design suitable for online stores selling clothing, accessories, or general merchandise. It includes structured sections, icons, and placeholder images to provide a seamless shopping experience for users.
 
-## Features
+## Home Page
+### Features
 - Responsive Design: Ensures compatibility across devices such as desktops, tablets, and mobile phones.
 - Navigation Menu: A clean and interactive navigation bar for seamless browsing.
 - Hero Section: A visually engaging section highlighting promotional content.
