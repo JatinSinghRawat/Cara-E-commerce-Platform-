@@ -12,13 +12,13 @@ Cara is an HTML and CSS e-commerce website template. This template is a modern, 
 - Newsletter Signup: A form to capture email addresses for promotional updates.
 - Footer: Contains contact details, social media links, quick links, and app installation options.
 
-  ## Shop Page
-  ### Features
-  - Product Section: Displays products in a grid layout. Each product includes: An image, a description with brand, title, and price, a star rating using Font Awesome 
+## Shop Page
+### Features
+- Product Section: Displays products in a grid layout. Each product includes: An image, a description with brand, title, and price, a star rating using Font Awesome 
   icons, a clickable cart icon to add the product to the cart.
- - Pagination: Provides navigation links for browsing through multiple product pages.
- - Product Details Section: Displays product information, price, size options, and an "Add to Cart" button.
- - Featured Products: Highlights other recommended items with ratings and prices.
+- Pagination: Provides navigation links for browsing through multiple product pages.
+- Product Details Section: Displays product information, price, size options, and an "Add to Cart" button.
+- Featured Products: Highlights other recommended items with ratings and prices.
 
 
 
